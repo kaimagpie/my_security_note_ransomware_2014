@@ -1,4 +1,6 @@
-My notes on how I recovered from a CryptoLocker ransomware incident.
+https://github.com/kaimagpie/my_security_note_ransomware_2014/blob/master/README.md
+
+My notes on my DIY recovery from a CryptoLocker ransomware incident.
 
 ## SYMPTON  On 2014 05 11 (Sunday)
 My Win8 notebook booted to a desktop screen of CryptoLocker showing
@@ -40,9 +42,20 @@ gradually need to use then.
 Having multiple admin accounts proved crucial in helping me quickly reset the PC.
 
 
-### BLOG
+## Update and notes on the WannaCry (NHS) commotion
+This uses a separate simple program executable, rather than an image, to display 
+message to victim.
+
+#REF  https://securityintelligence.com/wannacry-ransomware-spreads-across-the-globe-makes-organizations-wanna-cry-about-microsoft-vulnerability/?cm_mmc=OSocial_VoiceStorm-_-IBM+Security+Generic-_-WW_WW-_-39932_Twitter
+
+
+
+### BLOGS
 #CrytoLocker hit my low use Win81. Lucky I kept a diff admin that seem unaffected. Put data files in quar-tine folder. Trying various fixes.
+
 #CrytoLocker hit my low use Win81. Hope repaired it via a diff admin that seem unaffected. Put data files in quar-tine folder. http://www.webroot.com/blog/2014/05/05/evolution-encrypting-ransomware/?sf25801027=1
+
+My memo on how recovered from a ransomeware 3 years ago.
 
 
 (update & posted May 2017, KN | kaimagpie)
