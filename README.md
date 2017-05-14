@@ -1,6 +1,4 @@
-# my_security_note_ransomware_2014
-
-My notes on I repair the CryptoLocker Ransomware incident
+My notes on I recovered from the CryptoLocker ransomware incident
 
 
 ## SYMPTON  On 2014 05 11 (Sunday)
