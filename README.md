@@ -1,4 +1,4 @@
-My notes on how recovered from a CryptoLocker ransomware incident.
+My notes on how I recovered from a CryptoLocker ransomware incident.
 
 ## SYMPTON  (2014 05 11 Sunday)
 My Win8 notebook booted to a desktop screen of CryptoLocker showing
