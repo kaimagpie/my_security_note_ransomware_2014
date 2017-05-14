@@ -8,20 +8,20 @@ My Win8 notebook booted to a desktop screen of CryptoLocker showing
 some warning messages asking me to send 500 euro. It then open a Window
 desktop app with same message & wont close.
 
-## <>  Different user login seemed untouched
+### Different user login seemed untouched
 On switch off then log in as a different user, the ransomware did not show up.
 Via this log in, I duplicated my important recent data files to a quarantine
 folder on a different PC, _sharedQ on MSI7597.
 
-## _<>_  Photo viewers not usable
+### Photo viewers not usable
 I found that various win 8 default photo viewing tools & apps not able to read 
 any of the picture or the bmp files.
 
-## <>  The "Refresh your PC" option couldnt clear the malware
+### The "Refresh your PC" option couldnt clear the malware
 I tried F9 boot "Refresh your PC" option but CryptLocker is still there.
 
 
-## **TRY |**  Delete the account infected with the malware.
+## TRY FIX  Delete the account infected with the malware.
 Via a separate admin user account, I delete the infected account login.
 
 Then set up the account again as a new user. When startup the desktop's background
@@ -39,12 +39,12 @@ AND THEN over the next few days install application programs as I
 gradually need to use then.
 
 
-## #CONCLUSION
+## CONCLUSION
 Having multiple admin accounts proved crucial in helping me quickly reset the PC.
 
 
 
-## #BLOG Linkin,Tw,FB
+### BLOG Linkin,Tw,FB
 #CrytoLocker hit my low use Win81. Lucky I kept a diff admin that seem unaffected. Put data files in quar-tine folder. Trying various fixes.
 #CrytoLocker hit my low use Win81. Hope repaired it via a diff admin that seem unaffected. Put data files in quar-tine folder. http://www.webroot.com/blog/2014/05/05/evolution-encrypting-ransomware/?sf25801027=1
 
