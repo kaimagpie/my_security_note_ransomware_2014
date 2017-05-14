@@ -8,7 +8,7 @@ desktop app with same message & wont close.
 ### Different user login seemed untouched
 On switch off then log in as a different user, the ransomware did not show up.
 Via this log in, I duplicated my important recent data files to a quarantine
-folder on a different PC, _sharedQ on MSI7597.
+folder on a different PC, __sharedQ on MSI7597.
 
 ### Photo viewers not usable
 I found that various win 8 default photo viewing tools & apps not able to read 
