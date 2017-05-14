@@ -54,6 +54,6 @@ message to victim.
 #CrytoLocker hit my low use Win81. Hope repaired it via a diff admin that seem unaffected. Put data files in quar-tine folder. http://www.webroot.com/blog/2014/05/05/evolution-encrypting-ransomware/?sf25801027=1
 
 My memo on how recovered from a ransomeware 3 years ago.
-
-
+"\
+"
 (update & posted May 2017, KN | kaimagpie)
