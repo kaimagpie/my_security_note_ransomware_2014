@@ -43,7 +43,7 @@ gradually need to use then.
 Having multiple admin accounts proved crucial in helping me quickly reset the PC.
 
 
-## Update and notes on the WannaCry (NHS) commotion
+## 2017 update and notes on the WannaCry (NHS) ransom commotion
 This uses a separate simple program executable, rather than an image, to display 
 message to victim.
 
