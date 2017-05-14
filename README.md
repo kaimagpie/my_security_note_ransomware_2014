@@ -1,5 +1,3 @@
-https://github.com/kaimagpie/my_security_note_ransomware_2014/blob/master/README.md
-
 My notes on my DIY recovery from a CryptoLocker ransomware incident.
 
 ## SYMPTON  On 2014 05 11 (Sunday)
