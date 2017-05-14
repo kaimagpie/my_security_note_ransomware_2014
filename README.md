@@ -46,9 +46,9 @@ message to victim.
 
 #REF  https://securityintelligence.com/wannacry-ransomware-spreads-across-the-globe-makes-organizations-wanna-cry-about-microsoft-vulnerability/?cm_mmc=OSocial_VoiceStorm-_-IBM+Security+Generic-_-WW_WW-_-39932_Twitter
 
+&nbsp;
 
-
-### BLOGS
+##### BLOGS
 #CrytoLocker hit my low use Win81. Lucky I kept a diff admin that seem unaffected. Put data files in quar-tine folder. Trying various fixes.
 
 #CrytoLocker hit my low use Win81. Hope repaired it via a diff admin that seem unaffected. Put data files in quar-tine folder. http://www.webroot.com/blog/2014/05/05/evolution-encrypting-ransomware/?sf25801027=1
