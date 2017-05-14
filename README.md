@@ -57,6 +57,6 @@ My memo on how recovered from a ransomeware 3 years ago.
 
 &nbsp;
 
-"\
+&nbsp;
 
 (update & posted May 2017, KN | kaimagpie)
