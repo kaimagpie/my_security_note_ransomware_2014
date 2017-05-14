@@ -21,7 +21,7 @@ any of the picture or the bmp files.
 I tried F9 boot "Refresh your PC" option but CryptLocker is still there.
 
 
-## _<TRY>_  Delete the account infected with the malware.
+## **TRY |**  Delete the account infected with the malware.
 Via a separate admin user account, I delete the infected account login.
 
 Then set up the account again as a new user. When startup the desktop's background
