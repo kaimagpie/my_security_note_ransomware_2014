@@ -18,21 +18,24 @@ any of the picture or the bmp files.
 I tried F9 boot "Refresh your PC" option but CryptLocker is still there.
 
 
-## REMEDY TRY3   Delete the malware infected account
+## REMEDY REPORT  Delete the malware infected account
 Via a separate admin user account, I delete the infected account login.
 
-Then set up the account again as a new user. When startup the desktop's background
-image that has the message refering to CryptoLocker is still there.
-But this is just a plain image planted via Synched Theme setting.
+Then set up the account again as a new user. On startup the desktop's background
+image still shows a CryptoLocker message. But this is just a plain image 
+that had been planted, but can be removed via Synched Theme settings.
 
 However the malware seem to have gone.
 
-However still need to spend time going through the quarantine and remove
-the suspect files that might have carried the malware.
+Then I had to spend time going through the quarantine and remove
+the suspect files that might have carried the malware or still infected.
 (involve manually looking names of suspect processes, and name and dates
-of data and executable files, etc)
+of data and executable files, etc). It's probably a good time to
+carry out the chore of manually sorting out which working files 
+and folders to keep, and replace all unmodified folders from previously
+archived backups.
 
-AND THEN over the next few days install application programs as I 
+AND THEN over the next few days install application programs as I
 gradually need to use then.
 
 
