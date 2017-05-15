@@ -5,8 +5,8 @@ My Win8 notebook booted to a desktop screen of CryptoLocker showing
 some warning messages asking me to send 500 euro. It then open a Window
 desktop app with same message & wont close.
 
-### Different user login seemed untouched
-On switch off then log in as a different user, the ransomware did not show up.
+### Login in as a different user seem fine
+On switching off and then log in as a different user, the ransomware did not show up.
 Via this log in, I duplicated my important recent data files to a quarantine
 folder on a different PC, __sharedQ on MSI7597.
 
