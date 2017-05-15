@@ -29,10 +29,10 @@ However the malware seem to have gone.
 
 Then I had to spend time going through the quarantine and remove
 the suspect files that might have carried the malware or still infected.
-(involve manually looking names of suspect processes, and name and dates
+(Involve manually looking names of suspect processes, and name and dates
 of data and executable files, etc). It's probably a good time to
 carry out the chore of manually sorting out which working files 
-and folders to keep, and replace all unmodified folders from previously
+and folders to keep, and replace all unmodified folders with previously
 archived backups.
 
 AND THEN over the next few days install application programs as I
