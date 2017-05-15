@@ -19,7 +19,10 @@ I tried F9 boot "Refresh your PC" option but CryptLocker is still there.
 
 
 ## REMEDY REPORT  Delete the malware infected account
-Via a separate admin user account, I delete the infected account login.
+
+Manually disconnect the network cable.
+
+Login to a separate admin user account. From there delete the infected account login.
 
 Then set up the account again as a new user. On startup the desktop's background
 image still shows a CryptoLocker message. But this is just a plain image 
